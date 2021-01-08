@@ -15,6 +15,6 @@
       3) 친구의 친구 찾기(그래프)
       
 #### 3. 응용 문제
-      1) 미로 찾기 알고리즘
+      1) [미로 찾기 알고리즘](https://github.com/honghyelim/Python_Algorithms/blob/main/find_maze.ipynb)
       2) 가짜 동전 찾기 알고리즘
       3) 최대 수익 알고리즘
