@@ -12,7 +12,7 @@
 #### 2. 자료 구조
 
 - 회문 찾기(큐와 스택)
-- 동명이인 찾기(딕셔너리)
+- [동명이인 찾기(딕셔너리)](https://github.com/honghyelim/Python_Algorithms/blob/main/find_same_name.ipynb)
 - [친구의 친구 찾기(그래프)](https://github.com/honghyelim/Python_Algorithms/blob/main/find_friends.ipynb)
       
 #### 3. 응용 문제
