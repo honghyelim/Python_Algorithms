@@ -19,5 +19,5 @@
 
 - [미로 찾기 알고리즘](https://github.com/honghyelim/Python_Algorithms/blob/main/find_maze.ipynb)
 - [가짜 동전 찾기 알고리즘](https://github.com/honghyelim/Python_Algorithms/blob/main/find_fakecoin.ipynb)
-- 최대 수익 알고리즘
+- [최대 수익 알고리즘](https://github.com/honghyelim/Python_Algorithms/blob/main/max_profit.ipynb)
       
